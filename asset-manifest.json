@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Image-Search-App-NASA/static/css/main.cd011365.css",
+    "main.js": "/Image-Search-App-NASA/static/js/main.8f2cf99f.js",
+    "static/js/787.742a46a7.chunk.js": "/Image-Search-App-NASA/static/js/787.742a46a7.chunk.js",
+    "index.html": "/Image-Search-App-NASA/index.html",
+    "main.cd011365.css.map": "/Image-Search-App-NASA/static/css/main.cd011365.css.map",
+    "main.8f2cf99f.js.map": "/Image-Search-App-NASA/static/js/main.8f2cf99f.js.map",
+    "787.742a46a7.chunk.js.map": "/Image-Search-App-NASA/static/js/787.742a46a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd011365.css",
+    "static/js/main.8f2cf99f.js"
+  ]
+}
