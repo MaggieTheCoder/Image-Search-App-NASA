@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,700&display=swap");
+
+.search-results {
+  font-family: "Raleway", sans-serif;
+  font-size: 30px;
+}
+
+.search-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-image {
+  height: 300px;
+  width: 300px;
+  margin: 10px;
+}
+
+.no-result {
+  font-family: "Raleway", sans-serif;
+  font-size: 30px;
+  justify-content: center;
+}
